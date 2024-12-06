@@ -54,12 +54,9 @@ While proprietary models like Codex perform well in general tasks, they lack rep
    cd CodeKGC_Reproduction
    ```
 
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Ensure GPU support for faster training and inference.
+
+2. Ensure GPU support for faster training and inference.
 
 ---
 
